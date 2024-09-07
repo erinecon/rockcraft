@@ -119,7 +119,7 @@ spdx==2.5.1
 spdx-lookup==0.3.3
 sphinx==7.4.7
 sphinx-autobuild==2024.4.16
-sphinx-autodoc-typehints==2.2.3
+sphinx-autodoc-typehints==2.3.0
 sphinx-basic-ng==1.0.0b2
 sphinx-copybutton==0.5.2
 sphinx-design==0.6.1
