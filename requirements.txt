@@ -11,7 +11,7 @@ craft-parts==2.0.0
 craft-providers==2.0.0
 distro==1.9.0
 httplib2==0.22.0
-idna==3.7
+idna==3.8
 importlib-metadata==8.2.0
 launchpadlib==2.0.0
 lazr-restfulclient==0.14.6
